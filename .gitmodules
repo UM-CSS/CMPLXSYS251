@@ -1,0 +1,24 @@
+[submodule "lab123-NLP"]
+	path = lab01-02-03-NLP
+	url = git@github.com:UM-CSS/CSSLabs-NLP.git
+[submodule "lab4-Experiments"]
+	path = lab04-Experiments
+	url = git@github.com:UM-CSS/CSSLabs-Experiments.git
+[submodule "lab69-Community-Dynamics"]
+	path = lab06-09-Community-Dynamics
+	url = git@github.com:UM-CSS/CSSLabs-Community-Dynamics.git
+[submodule "lab10a-Drawing-Conclusions"]
+	path = lab10a-Drawing-Conclusions
+	url = git@github.com:UM-CSS/Drawing-Conclusions.git
+[submodule "lab10b-Algorithms-Society"]
+	path = lab10b-Algorithms-Society
+	url = git@github.com:UM-CSS/CSSLabs-Algorithms-Society.git
+[submodule "lab11-12-Networks"]
+	path = lab11-12-Networks
+	url = git@github.com:UM-CSS/CSSLabs-Networks.git
+[submodule "lab13-Contagion"]
+	path = lab13-Contagion
+	url = git@github.com:UM-CSS/CSSLabs-Contagion.git
+[submodule "lab14-Extra"]
+	path = lab14-Extra
+	url = git@github.com:UM-CSS/CSSLabs-Extra.git
